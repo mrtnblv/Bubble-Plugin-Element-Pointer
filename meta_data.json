@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "media",
+        "2": "image"
+    },
+    "demo_page": "https://plugins-playground-23187.bubbleapps.io/version-test/element_pointer",
+    "description": "Create an interactive browsing experience on you Bubble app with the Element Pointer Plugin. This plugin allows you to replace your mouse pointer with any element on your page (group, text, icon, image, shape, etc.), enhancing user interactivity.\n\nInstructions:\n- Expose the option to add an ID attribute to HTML elements (Settings - General)\n- Assign an ID attribute to any element on your page that you wish to replace with the mouse pointer.\n- Make sure to specify this ID in the plugin settings.\n\n\nDemo: \nhttps://plugins-playground-23187.bubbleapps.io/version-test/element_pointer\n\nEditor:\nhttps://bubble.io/page?type=page&name=element_pointer&id=plugins-playground-23187&tab=tabs-1",
+    "image": "//meta-q.cdn.bubble.io/f1710922632267x103651022763856960/SCR-20240320-ipsy.png",
+    "license": "open_source",
+    "link": "",
+    "name": "Element Pointer",
+    "plugin_instructions": ""
+}

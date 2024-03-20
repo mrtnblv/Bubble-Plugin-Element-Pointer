@@ -1,0 +1,28 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Element Pointer",
+    "fields": {
+        "AAD": {
+            "caption": "Element ID",
+            "doc": "Element's ID on your page that you want to replace with the mouse pointer.",
+            "editor": "StaticText",
+            "name": "id",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Hide default pointer",
+            "default_val": true,
+            "doc": "",
+            "editor": "Checkbox",
+            "in_style": true,
+            "name": "hide_default",
+            "rank": 1
+        }
+    },
+    "icon": "ion-mouse"
+}
